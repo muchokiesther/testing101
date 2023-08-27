@@ -65,3 +65,11 @@ C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\Publi
 C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\PublisherDomain.pdb
 C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\obj\Debug\net6.0\ef-learning.csproj.AssemblyReference.cache
 C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\obj\Debug\net6.0\ef-learning.csproj.CopyComplete
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\USERE\Documents\Projects\ef-learning\ef-learning\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
